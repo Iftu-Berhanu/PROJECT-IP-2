@@ -1,6 +1,5 @@
 <?php
-$uploadDir = 'uploads/';
-$message = '';
+
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Validate the inputs
